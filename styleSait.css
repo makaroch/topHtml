@@ -1,0 +1,47 @@
+body {
+    background-color: grey;
+}
+
+.box {
+    width: 60%;
+    margin: auto;
+}
+
+.head {
+    background-color: grey;
+
+}
+
+.logo {
+    width: 40%;
+    display: inline;
+}
+
+.logo-img {
+    width: 100px;
+    float: left;
+    margin-right: 16px;
+}
+
+.head-slogan {
+    float: right;
+}
+
+.here {
+    background-color: aliceblue;
+    clear: both;
+    text-align: center;
+    border: 1px solid rgb(3, 3, 3);
+}
+.img-average{
+    width: 100px;
+    border-radius: 50%;
+    float: right;  
+}
+.average{
+    border: 1px solid black;
+
+}
+.average>h2,p{
+    margin-left: 10px;
+}
