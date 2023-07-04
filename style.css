@@ -1,0 +1,26 @@
+
+
+.img1{
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: -6px -6px 6px rgb(229, 7, 7);
+}
+.img2{
+    width: 300px;
+    height: 400px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: -6px -6px 6px rgb(229, 7, 7);
+}
+.img3{
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: -6px -6px 6px rgb(229, 7, 7);
+}
